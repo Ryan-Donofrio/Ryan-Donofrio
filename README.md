@@ -33,7 +33,7 @@ new ways to push the boundaries of what is possible with software engineering.
 
 ---
 
-### 📺 Latest Projects
+###  Latest Projects
 
 ➡️ [more projects...](https://ryandonofrio.com)
 
