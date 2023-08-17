@@ -5,10 +5,10 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://ryandonofrio.com#gh-light-mode-only)
+[![linkedin](./img/globe-dark.svg)](https://linkedin.com/ryan-donofrio#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
+[![github](./img/youtube-light.svg)](https://github.com/ryan-donofrio#gh-light-mode-only)
 
 ### Languages and Tools:
 
@@ -31,9 +31,7 @@
 
 ###  Latest Projects
 
-<!-- YOUTUBE:START -->
-- [Twitter X](https://www.youtube.com/watch?v=lncE1347QSo)
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://ryandnofrio.com)
 
 ---
 
