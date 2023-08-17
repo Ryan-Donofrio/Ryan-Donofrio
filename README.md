@@ -1,21 +1,16 @@
 # Hi there, I'm Ryan 👋 
 
-[![Linkedin](https://img.shields.io/www.linkedin.com/in/ryan-donofrio?logo=youtube&logoColor=red&style=for-the-badge)[Linkedin]
 [![Website](https://img.shields.io/website?label=ryandonofrio.com&style=for-the-badge&url=https://ryandonofrio.com)](https://ryandonofrio.com)
 
-
-
-## I'm a Student and Developer!!
-
+## I'm a student and developer!!
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![LinkedIn](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://ryandonofrio.com#gh-light-mode-only)
+[![linkedin](./img/globe-dark.svg)](https://ryandonofrio.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![GitHub](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![Email](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
+[![github](./img/youtube-light.svg)](https://ryandonofrio.com/codestackr#gh-light-mode-only)
+
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
@@ -41,16 +36,46 @@
 
 ---
 
-###  Latest projects 
+### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Project 1](https://www.youtube.com/watch?v=lncE1347QSo)
+- [Twitter X](https://www.youtube.com/watch?v=lncE1347QSo)
+- [AI in 5 Minutes: You Won&#39;t Believe How Simple It Is](https://www.youtube.com/watch?v=8hZmvz7GxQ4)
+- [Step-by-Step Guide to JSDoc and TypeScript in Modern JavaScript Projects in 15 Minutes!](https://www.youtube.com/watch?v=oH_-6TyxVhI)
+- [🤔 Should I use TypeScript, JSDoc, or Both?](https://www.youtube.com/watch?v=JTYhDiJiiFI)
+- [The Future of JavaScript &amp; AI in Tech - Evan You at VueJSLive](https://www.youtube.com/watch?v=TwjUuivIrPI)
 <!-- YOUTUBE:END -->
 
-➡️ [more projects...](https://youtube.com/codestackr)
+➡️ [more videos...](https://youtube.com/codestackr)
 
 ---
 
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Render ATL 2023 Trip Report](https://dev.to/codestackr/render-atl-2023-trip-report-mp4)
+- [Web Development Roadmap 2023](https://dev.to/codestackr/web-development-roadmap-2023-5beo)
+- [Getting Started with MongoDB &amp; Mongoose](https://dev.to/codestackr/getting-started-with-mongodb-mongoose-2h6a)
+- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
+- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://codestackr.com)
+
+---
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#35](https://github.com/GH-Event-Demos/random-name-picker/issues/35#issuecomment-1572138731) in [GH-Event-Demos/random-name-picker](https://github.com/GH-Event-Demos/random-name-picker)
+2. 💪 Opened PR [#4](https://github.com/mongodb-developer/mdblinks/pull/4) in [mongodb-developer/mdblinks](https://github.com/mongodb-developer/mdblinks)
+3. ❗ Opened issue [#3](https://github.com/mongodb-developer/mdblinks/issues/3) in [mongodb-developer/mdblinks](https://github.com/mongodb-developer/mdblinks)
+4. 💪 Opened PR [#1](https://github.com/studio-demo/cloudcash-sass/pull/1) in [studio-demo/cloudcash-sass](https://github.com/studio-demo/cloudcash-sass)
+5. 🎉 Merged PR [#1](https://github.com/codeSTACKr/superhero-extensions/pull/1) in [codeSTACKr/superhero-extensions](https://github.com/codeSTACKr/superhero-extensions)
+<!--END_SECTION:activity-->
+
+</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -59,8 +84,13 @@
 
 </details>
 
-[website]: https://ryandonofrio.com
-[linkedin]: http://vsCodeHero.com
-[github]: https://twitter.com/codeSTACKr
-[twitter]: https://youtube.com/codeSTACKr
+[website]: https://codeSTACKr.com
+[course]: http://vsCodeHero.com
+[twitter]: https://twitter.com/codeSTACKr
+[youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
+[linkedin]: https://linkedin.com/in/codeSTACKr
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
