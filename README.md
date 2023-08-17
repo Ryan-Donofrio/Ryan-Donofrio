@@ -2,13 +2,11 @@
 
 [![Website](https://img.shields.io/badge/-My%20Website!%20%E2%86%92-gray.svg?colorB=2986cc&style=for-the-badge)](https://ryandonofrio.com)
 
-
 ## I'm a Student and Developer!!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
+Currently a student known for determination and a hard work ethic. Persistently seeking new 
+opportunities to stay up to date with the latest technology and excited to continue exploring
+new ways to push the boundaries of what is possible with software engineering.
 
 ### Connect with me:
 
