@@ -48,7 +48,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Ryan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ryan-donofrio&show_icons=true&hide_border=false&title_color=2986cc&icon_color=2986cc&bg_color=2986cc&text_color=ffffff&border_color=2986cc" />
+  <img align="left" alt="Ryan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ryan-donofrio&show_icons=true&hide_border=false&title_color=2986cc&icon_color=2986cc&bg_color=09131B&text_color=ffffff&border_color=2986cc" />
 
 </details>
 
